@@ -1,0 +1,62 @@
+.heading {
+  color: #333;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: "Roboto", cursive;
+  text-transform: capitalize;
+}
+
+.heading span {
+  color: tomato;
+  font-size: 45px;
+}
+
+img {
+  width: 100%;
+  border-radius: 25px;
+}
+p {
+  font-size: 20px;
+  font-family: "Roboto", cursive;
+  text-align: justify;
+  line-height: 30px;
+}
+
+p span {
+  background-color: rgb(255, 228, 53);
+  color: #000;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Roboto", cursive;
+  background-color: red;
+  color: white;
+  width: 150px;
+  height: 50px;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  border-radius: 10px;
+}
+
+#heading2 {
+  font-size: 50px;
+  color: lightgreen;
+}
+
+.btn {
+  background-color: #000;
+}
+
+.primary {
+  background-color: aqua;
+}
+
+
+p span{
+    font-size: 50px;
+    color: #b1596f;
+    
+}
